@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+dist/
+build/
+*.egg-info/
+
+.env
+*.env
+api_token.txt
+*token*.txt
+*Recovery-Codes*.txt

@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cloudcommand"
+version = "0.0.1"
+description = "Placeholder package for future CloudCommand project."
+authors = [
+  { name="John Taylor", email="technologysolutions@gmx.com" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Fullabull/cloudcommand"
+Source = "https://github.com/Fullabull/cloudcommand"
+Issues = "https://github.com/Fullabull/cloudcommand/issues"
